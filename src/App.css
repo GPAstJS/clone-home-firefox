@@ -1,0 +1,20 @@
+  .container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.browser-header {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+
+.cards-box {
+  display: flex;
+  flex-direction: row;
+}
